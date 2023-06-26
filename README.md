@@ -34,9 +34,9 @@ npm run build
 npm run lint
 ```
 <<<<<<< HEAD
-### [1.Vue3入门](markdowns/1. Vue3入门.md)
+### [1.Vue3入门](markdowns/1.Vue3入门.md)
 ### [2. Pinia入门](markdowns/2.Pinia入门.md)
-### [3. 项目起步](markdowns/ 3.项目起步.md)
+### [3. 项目起步](markdowns/3.项目起步.md)
 ### [4. Layout页](markdowns/4.Layout页.md)
 ### [5. Home页](markdowns/5.Home页.md)
 ### [6. 一级分类页](markdowns/6.一级分类页.md)
