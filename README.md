@@ -33,7 +33,7 @@ npm run build
 ```sh
 npm run lint
 ```
-<<<<<<< HEAD
+
 ### [1.Vue3入门](markdowns/1.Vue3入门.md)
 ### [2. Pinia入门](markdowns/2.Pinia入门.md)
 ### [3. 项目起步](markdowns/3.项目起步.md)
@@ -48,19 +48,6 @@ npm run lint
 ### [12. 支付页](markdowns/12.支付页.md)
 ### [13. 会员中心](markdowns/13.会员中心.md)
 ###  [14. 拓展部分](markdowns/14.拓展部分.md)
-=======
-### [1.Vue3入门](markdowns/1.Vue3入门.md)
-### [2. Pinia入门](markdowns/2. Pinia入门.md)
-### [3. 项目起步](markdowns/ 3. 项目起步.md)
-### [4. Layout页](markdowns/4. Layout页.md)
-### [5. Home页](markdowns/5. Home页.md)
-### [6. 一级分类页](markdowns/6. 一级分类页.md)
-### [7. 二级分类页](markdowns/7. 二级分类页.md)
-### [8. 商品详情](markdowns/8. 商品详情.md)
-### [9. 登录页](markdowns/9. 登录页.md)
-### [10. 购物车](markdowns/10. 购物车.md)
-### [11. 订单页](markdowns/11. 订单页.md)
-### [12. 支付页](markdowns/12. 支付页.md)
-### [13. 会员中心](markdowns/13. 会员中心.md)
-###  [14. 拓展部分](markdowns/14. 拓展部分.md)
->>>>>>> 8a0ff02ff5819bce1f5eabe36ef878ed4f923f39
+
+
+
